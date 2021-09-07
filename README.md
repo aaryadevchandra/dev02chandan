@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dev Chandan
-- 👀 I’m interested in basic projects in Python and Android Development
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in basic projects in Python and Web Development
+- 🌱 I’m currently learning Python and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
