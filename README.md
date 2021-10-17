@@ -2,7 +2,7 @@
 - 👀 I’m interested in basic projects in Python and Web Development
 - 🌱 I’m currently learning Python and Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [here] (https://www.linkedin.com/in/dev-chandan/)
 
 <!---
 dev02chandan/dev02chandan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
